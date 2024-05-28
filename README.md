@@ -47,7 +47,7 @@ Welcome to this robotic puppy project repository! This project combines the powe
 I will need to start with some programming, so this part will be added first after finishing the main objectives.
 
 ## License
-This project is licensed under the GPL 3.0 License, allowing for unrestricted use, modification, and distribution. See the LICENSE file for details.
+This project is licensed under the GPL 3.0 License, allowing for unrestricted use, modification, and distribution. See the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 Use the Turbo Pup robotic dog project at your own risk. The developers are not liable for any damage or injury caused by its use.
