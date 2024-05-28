@@ -51,5 +51,3 @@ This project is licensed under the GPL 3.0 License, allowing for unrestricted us
 
 ## Disclaimer
 Use the Turbo Pup robotic dog project at your own risk. The developers are not liable for any damage or injury caused by its use.
-
-Happy building and coding with Turbo Pup! 🐾
