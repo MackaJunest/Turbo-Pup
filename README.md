@@ -2,7 +2,7 @@
 8DOF Wheeled Robotic Dog Project
 
 ## Overview
-Welcome to this robotic puppy project repository! This project combines the power of the Turbo Drive, an ESP32-based controlling board for motion control, and a Raspberry Pi 4B for advanced functionalities like gait planning, systematic modeling, and sensory extensions.
+Welcome to this robotic puppy project repository! This project combines the power of the [Turbo Drive](https://github.com/MackaJunest/Turbo-Drive), an ESP32-based controlling board for motion control, and a Raspberry Pi 4B for advanced functionalities like gait planning, systematic modeling, and sensory extensions.
 
 ## Features
 
