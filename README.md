@@ -4,6 +4,7 @@
 
 ## Overview
 Welcome to this robotic puppy project repository! This project combines the power of the [Turbo Drive](https://github.com/MackaJunest/Turbo-Drive), an ESP32-based controlling board for motion control, and a Raspberry Pi 4B for advanced functionalities like gait planning, systematic modeling, and sensory extensions.
+
 ![Turbo pup](https://github.com/MackaJunest/Turbo-Pup/assets/95353708/cd6d1082-5bf5-4d0c-b7ec-6de232c06046)
 
 ## Features
