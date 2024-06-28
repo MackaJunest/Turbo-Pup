@@ -1,5 +1,7 @@
 #include <Commander.h>
 
+// Hello, World!
+
 void Commander::Init(int Baudrate, long int timeout)
 {
     Serial.begin(Baudrate);
